@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">10sp</dimen>
+    <dimen name="titleSize">32sp</dimen>
+    <dimen name="mealSize">50sp</dimen>
+    <dimen name="selectSize">25sp</dimen>
+    <dimen name="percentageSize">80sp</dimen>
+    <dimen name="btnSize">30sp</dimen>
+    <dimen name="resultSize">60sp</dimen>
+</resources>
